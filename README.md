@@ -2,12 +2,9 @@
 
 # Airbnb_Data_Analysis_LA
 
-
-Airbnb is the largest peer-to-peer exchange service for hospitality around the world. By 2018, the startup had already hosted over 300 million guests.
-<p align="center">
+A plataforma do Airbnb foi fundada em 2008 e rapidamente, apresentou um crescimento do seu negócio. Atualmente, está presente em 220 países, onde já hospedou mais de 750 milhões de pessoas com seus 4 milhões de anúncios ativos dentro da sua plataforma.
 
 <img alt="Los Angeles City" width="70%" src="https://img.freepik.com/fotos-gratis/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.jpg?size=626&ext=jpg&ga=GA1.2.2077709365.1677601041&semt=robertav1">
-</p>
 
 The Big Apple is Airbnb’s largest domestic market, but under state law, it is illegal in most buildings for an apartment to be rented out for less than 30 days unless the permanent tenant is residing in the apartment at the same time.
 
