@@ -14,5 +14,5 @@
 <br>
 <br>
 <p align="center">
- <img alt="Los Angeles City" width="70%" src="img/banner.png" >
+ <img alt="Los Angeles City" width="80%" src="img/banner.png" >
 </p>
