@@ -2,31 +2,13 @@
 
 # Airbnb_Data_Analysis_LA
 
+<img alt="Los Angeles City" width="100%" src="https://img.freepik.com/fotos-gratis/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.jpg?size=626&ext=jpg&ga=GA1.2.2077709365.1677601041&semt=robertav1">
+
+
+
+
 <p align="center">
   <img src="img/banner.png" >
 </p>
 
-# Gabriel Martini
-<sub>*Lead Data Scientist* at ...</sub>
-
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/gabrielmartini1)
-* [Medium](https://www.medium.com)
-
-
-## Projetos:
-Aqui você vai encontrar os meus principais projetos publicados em Data Science:
-
-* **Analisando os Dados do Airbnb - Los Angeles, Califórnia:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+Airbnb is the largest peer-to-peer exchange service for hospitality around the world. By 2018, the startup had already hosted over 300 million guests.
