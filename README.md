@@ -4,13 +4,13 @@
 
 <p align="justify">A plataforma do Airbnb foi fundada em 2008 e rapidamente, apresentou um crescimento do seu negócio. Atualmente, está presente em 220 países, onde já hospedou mais de 750 milhões de pessoas com seus 4 milhões de anúncios ativos dentro da sua plataforma.</p>
 
-<p align="justify"><img alt="Los Angeles City" width="70%" src="https://img.freepik.com/fotos-gratis/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.jpg?size=626&ext=jpg&ga=GA1.2.2077709365.1677601041&semt=robertav1"></p>
+<p align="center"><img alt="Los Angeles City" width="70%" src="https://img.freepik.com/fotos-gratis/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.jpg?size=626&ext=jpg&ga=GA1.2.2077709365.1677601041&semt=robertav1"></p>
 
 <p align="justify">O Airbnb é uma plataforma online de hospedagem que permite que os viajantes encontrem acomodações exclusivas em todo o mundo. Na cidade de Los Angeles, Califórnia, o Airbnb se tornou uma opção popular de hospedagem para os turistas, oferecendo uma variedade de apartamentos, casas e quartos para alugar.</p>
  
 <p align="justify">Com uma ampla seleção de acomodações, preços acessíveis e localização privilegiada, o Airbnb tem sido uma escolha favorita dos viajantes que desejam explorar Los Angeles e vivenciar a cidade de uma maneira mais autêntica. Além disso, o Airbnb também tem sido uma fonte de renda adicional para muitos proprietários que alugam suas propriedades para os turistas.</p>
 
-<p align="justify">Mediante isso, será muito interessante analisar os dados do Airbnb e ver como este serviço de hospedagem se destaca na cidade de Los Angeles.</p>
+<p align="justify">Desta forma, será muito interessante analisar os dados do Airbnb e ver como este serviço de hospedagem se destaca na cidade de Los Angeles.</p>
 <br>
 <br>
 <p align="center">
