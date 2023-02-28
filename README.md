@@ -14,9 +14,8 @@ The Big Apple is Airbnb’s largest domestic market, but under state law, it is 
 With all that in mind, it should be interesting to analyze the data, and see how this environment can affect Airbnb's performance in New York City.
 
 If you want to learn more about this subject, check out this notebook, and let me know what you think!
-
-
-
+<br>
+<br>
 <p align="center">
-  <img src="img/banner.png" >
+ <img alt="Los Angeles City" width="70%" src="img/banner.png" >
 </p>
