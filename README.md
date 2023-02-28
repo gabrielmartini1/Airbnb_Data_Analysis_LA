@@ -4,7 +4,7 @@
 
 <p align="justify">A plataforma do Airbnb foi fundada em 2008 e rapidamente, apresentou um crescimento do seu negócio. Atualmente, está presente em 220 países, onde já hospedou mais de 750 milhões de pessoas com seus 4 milhões de anúncios ativos dentro da sua plataforma.</p>
 
-<p align="center"><img alt="Los Angeles City" width="70%" src="https://img.freepik.com/fotos-gratis/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.jpg?size=626&ext=jpg&ga=GA1.2.2077709365.1677601041&semt=robertav1"></p>
+<p align="center"><img alt="Los Angeles City" width="80%" src="https://img.freepik.com/fotos-gratis/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.jpg?size=626&ext=jpg&ga=GA1.2.2077709365.1677601041&semt=robertav1"></p>
 
 <p align="justify">O Airbnb é uma plataforma online de hospedagem que permite que os viajantes encontrem acomodações exclusivas em todo o mundo. Na cidade de Los Angeles, Califórnia, o Airbnb se tornou uma opção popular de hospedagem para os turistas, oferecendo uma variedade de apartamentos, casas e quartos para alugar.</p>
  
