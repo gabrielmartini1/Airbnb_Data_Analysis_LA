@@ -15,7 +15,7 @@ Exploratory Analysis of Airbnb Data in Los Angeles
 <p align="justify">Desta forma, será muito interessante analisar os dados do Airbnb e ver como este serviço de hospedagem se destaca na cidade de Los Angeles.</p>
 
 
-**Palavras-Chave:** Hospedagem compartilhada; Plataforma; .
+**Palavras-Chave:** Hospedagem compartilhada; Plataforma de compartilhamento; Gentrificação.
 
 <br><br><br><br><br>
 
