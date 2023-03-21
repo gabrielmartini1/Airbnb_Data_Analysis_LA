@@ -13,6 +13,10 @@
 <p align="justify">Desta forma, será muito interessante analisar os dados do Airbnb e ver como este serviço de hospedagem se destaca na cidade de Los Angeles.</p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <p align="center">
  <img alt="Los Angeles City" width="100%" src="img/banner.png" >
 </p>
