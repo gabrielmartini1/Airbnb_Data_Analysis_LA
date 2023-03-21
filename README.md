@@ -2,8 +2,11 @@
 
 # Airbnb_Data_Analysis_LA
 Exploratory Analysis of Airbnb Data in Los Angeles
+<br><br><br>
 
-<br>
+<p align="center"><strong>RESUMO</strong></p>
+ 
+
 <p align="justify">A plataforma do Airbnb foi fundada em 2008 e rapidamente, apresentou um crescimento do seu negócio. Atualmente, está presente em 220 países, onde já hospedou mais de 750 milhões de pessoas com seus 4 milhões de anúncios ativos dentro da sua plataforma.</p>
 
 <p align="center"><img alt="Los Angeles City" width="100%" src="https://img.freepik.com/fotos-gratis/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.jpg?size=626&ext=jpg&ga=GA1.2.2077709365.1677601041&semt=robertav1"></p>
@@ -17,7 +20,7 @@ Exploratory Analysis of Airbnb Data in Los Angeles
 
 **Palavras-Chave:** Hospedagem compartilhada; Plataforma de compartilhamento; Gentrificação.
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p align="center">
  <img alt="banner" width="100%" src="img/banner.png" >
