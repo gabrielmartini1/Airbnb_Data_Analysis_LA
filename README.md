@@ -14,6 +14,9 @@ Exploratory Analysis of Airbnb Data in Los Angeles
 
 <p align="justify">Desta forma, será muito interessante analisar os dados do Airbnb e ver como este serviço de hospedagem se destaca na cidade de Los Angeles.</p>
 
+
+**Palavras-Chave:** Infecções por Coronavírus; Epidemiologia; Covid-19; Saúde Pública, Segurança Pública.
+
 <br><br><br><br><br>
 
 <p align="center">
